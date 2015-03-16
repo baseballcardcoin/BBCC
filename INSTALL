@@ -1,0 +1,9 @@
+Building BaseBallCardCoin
+
+See doc/readme-qt.rst for instructions on building BaseBallCardCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BaseBallCardCoin.
+
+See doc/build-*.txt for instructions on building BaseBallCardCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BaseBallCardCoin.
